@@ -6,11 +6,12 @@ To run this project locally, you need to have Node.js and npm installed on your 
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/louis7andrada/assignment1_comp3133_101356043.git
+)
 
 2. Go to folder
    ```bash
-   cd <project-directory>
+   cd assignment1_comp3133_101356043
 
 3. Install dependencies:
    ```bash
