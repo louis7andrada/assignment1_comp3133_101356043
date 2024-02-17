@@ -1,7 +1,7 @@
 # Assignment 1 Comp 3133
 
-STUDENT: Luis Rodrigo Procopio Andrada
-STUDENT ID: *****6043
+## STUDENT: Luis Rodrigo Procopio Andrada
+## STUDENT ID: *****6043
 
 ## Installation
 
